@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Faiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=outrun&show_icons=true&theme=radical)
+![Faiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiqali1&show_icons=true&theme=radical)
 
 
 
