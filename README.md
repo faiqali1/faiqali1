@@ -1,6 +1,20 @@
 ### Hi there 👋
-![Faiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiqali1&show_icons=true&theme=radical)
 
+I'm a Computer Science Student at UM. 
+
+Current interest include:
+
+- AI 
+- Machine Learning  
+- Frontend dev 
+
+[]() 
+-
+![Faiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiqali1&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faiqali1&layout=compact&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ 
 
 
 <!--
