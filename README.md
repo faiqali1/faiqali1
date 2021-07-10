@@ -1,4 +1,7 @@
 ### Hi there 👋
+![Faiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=outrun&show_icons=true&theme=radical)
+
+
 
 <!--
 **faiqali1/faiqali1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
