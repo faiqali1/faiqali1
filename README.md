@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm a Computer Science Student at UM. 
+Computer Science major at University Malaya, Kuala Lumpur. 
 
 Current interest include:
 
-- AI 
-- Machine Learning  
-- Frontend dev 
+🧠 AI 
+🤖 Machine Learning  
+💻 Frontend dev 
 
 []() 
 -
